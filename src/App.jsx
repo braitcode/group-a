@@ -24,11 +24,7 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
-        <h2>Hello Baby!</h2>
       </div>
-      <h2>
-        Welcome to Group A
-      </h2>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
