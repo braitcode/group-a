@@ -32,7 +32,7 @@ function App() {
       </p>
       <div>
         
-        <h3 className='tech'>Edit and save to test HMR settings using something new and save to test HMR settings using something new</h3>
+       
       </div>
       
     </>
