@@ -7,7 +7,7 @@ const Home = () => {
             tech studio is cool
         </p>
         <button className='btn btn_primary'>bright</button>
-        <button className='btn btn_primary'> peace</button>
+        <p className='btn btn_primary'> peace</p>
     </div>
   )
 }
