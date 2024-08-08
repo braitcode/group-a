@@ -22,7 +22,9 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <h3 className='tech'>Edit and save to test HMR settings using something new and save to test HMR settings using something new</h3>
+        <p className='tech'>
+          Edit <code>src/App.jsx</code> save to test HMR
+        </p>
         <p className='btn btn_primary'>new button</p>
       </div>
       <p className="read-the-docs">
