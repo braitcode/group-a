@@ -12,7 +12,10 @@ const Home = () => {
         <div className='tech'>bright</div>
         <div>bright</div>
         <div>brigihljdhf</div>
+        <h3>Bright</h3>
     </div>
+
+    
   )
 }
 
