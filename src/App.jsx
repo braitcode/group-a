@@ -28,6 +28,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more about the app
       </p>
+      <div>
+        <p className='tech'>Edit <code>src/App.jsx</code> and save to test HMR settings</p>
+      </div>
       
     </>
   )
