@@ -12,6 +12,7 @@ function App() {
         <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
+        <h4>group a</h4>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
@@ -24,6 +25,7 @@ function App() {
         <p className='tech'>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
+        <p className='btn btn_primary'>new button</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more about the app
